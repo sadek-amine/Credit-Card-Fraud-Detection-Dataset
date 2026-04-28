@@ -1,7 +1,6 @@
 
 
--- حذف الجداول إذا كانت موجودة
-DROP TABLE IF EXISTS fraud_alerts;
+-- DROP TABLE IF EXISTS fraud_alerts;
 DROP TABLE IF EXISTS transactions;
 DROP TABLE IF EXISTS accounts;
 DROP TABLE IF EXISTS users;
